@@ -25,10 +25,11 @@
 ## Requirements 📋
 Python 3.x
 Admin privileges for execution
-*License 📄*
+
+## License 📄*
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-*Disclaimer ⚠️*
+## Disclaimer ⚠️
 Please use ByeEdge responsibly. Removing Edge can affect Windows features that depend on it. Use at your own risk.
     
 
