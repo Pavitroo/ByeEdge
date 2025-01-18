@@ -10,7 +10,7 @@
 ## Installation 🛠️
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ByeEdge.git
+    git clone https://github.com/Point-AI-Research/ByeEdge.git
     ```
 
 2. Install dependencies:
